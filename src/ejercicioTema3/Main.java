@@ -1,4 +1,4 @@
-package com.ejercicioTema3;
+package ejercicioTema3;
 
 public class Main {
 	
